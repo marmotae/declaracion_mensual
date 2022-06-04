@@ -1,0 +1,49 @@
+{
+ "creation": "2022-04-29 13:14:21.924138",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "limite_inferior",
+  "limite_superior",
+  "cuota_fija",
+  "porcentaje_sobre_excedente"
+ ],
+ "fields": [
+  {
+   "fieldname": "limite_inferior",
+   "fieldtype": "Currency",
+   "in_list_view": 1,
+   "label": "L\u00edmite Inferior"
+  },
+  {
+   "fieldname": "limite_superior",
+   "fieldtype": "Currency",
+   "in_list_view": 1,
+   "label": "L\u00edmite Superior"
+  },
+  {
+   "fieldname": "cuota_fija",
+   "fieldtype": "Currency",
+   "in_list_view": 1,
+   "label": "Cuota Fija"
+  },
+  {
+   "fieldname": "porcentaje_sobre_excedente",
+   "fieldtype": "Percent",
+   "in_list_view": 1,
+   "label": "% Sobre excedente del l\u00edmite inferior"
+  }
+ ],
+ "istable": 1,
+ "modified": "2022-05-29 00:30:53.452914",
+ "modified_by": "Administrator",
+ "module": "Declaracion Mensual",
+ "name": "Tabla Detalle Pagos Provisionales ISR",
+ "owner": "marmotae@gmail.com",
+ "permissions": [],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

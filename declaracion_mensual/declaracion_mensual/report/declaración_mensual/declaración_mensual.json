@@ -1,0 +1,33 @@
+{
+ "_liked_by": "[\"Administrator\", \"marmotae@gmail.com\"]",
+ "add_total_row": 0,
+ "creation": "2022-04-24 19:04:14.686017",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "idx": 0,
+ "is_standard": "Yes",
+ "modified": "2022-05-27 13:33:37.628271",
+ "modified_by": "Administrator",
+ "module": "Declaracion Mensual",
+ "name": "Declaraci\u00f3n Mensual",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "query": "",
+ "ref_doctype": "GL Entry",
+ "reference_report": "",
+ "report_name": "Declaraci\u00f3n Mensual",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "Accounts User"
+  },
+  {
+   "role": "Accounts Manager"
+  },
+  {
+   "role": "Auditor"
+  }
+ ]
+}

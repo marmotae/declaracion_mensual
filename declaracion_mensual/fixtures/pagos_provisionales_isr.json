@@ -1,0 +1,3668 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "pagos_provisionales_isr",
+  "fiscal_year": "2020",
+  "modified": "2022-04-29 16:57:03.949001",
+  "name": "2020",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tabla_abril": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 2314.08,
+    "parent": "2020",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 44.44,
+    "limite_inferior": 2314.09,
+    "limite_superior": 19640.72,
+    "parent": "2020",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 1153.32,
+    "limite_inferior": 19640.73,
+    "limite_superior": 34516.8,
+    "parent": "2020",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 2771.84,
+    "limite_inferior": 34516.81,
+    "limite_superior": 40124.28,
+    "parent": "2020",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 3669.04,
+    "limite_inferior": 40124.29,
+    "limite_superior": 48039.76,
+    "parent": "2020",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 5087.48,
+    "limite_inferior": 48039.77,
+    "limite_superior": 96889.24,
+    "parent": "2020",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 15521.76,
+    "limite_inferior": 96889.25,
+    "limite_superior": 152710.76,
+    "parent": "2020",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 28650.96,
+    "limite_inferior": 152710.77,
+    "limite_superior": 291550.0,
+    "parent": "2020",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 70302.76,
+    "limite_inferior": 291550.01,
+    "limite_superior": 388733.32,
+    "parent": "2020",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 101401.4,
+    "limite_inferior": 388733.33,
+    "limite_superior": 1166200.0,
+    "parent": "2020",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 365740.08,
+    "limite_inferior": 1166200.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_agosto": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 4628.16,
+    "parent": "2020",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 88.88,
+    "limite_inferior": 4628.17,
+    "limite_superior": 39281.44,
+    "parent": "2020",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 2306.64,
+    "limite_inferior": 39281.45,
+    "limite_superior": 69033.6,
+    "parent": "2020",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 5543.68,
+    "limite_inferior": 69033.61,
+    "limite_superior": 80248.56,
+    "parent": "2020",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 7338.08,
+    "limite_inferior": 80248.57,
+    "limite_superior": 96079.52,
+    "parent": "2020",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 10174.96,
+    "limite_inferior": 96079.53,
+    "limite_superior": 193778.48,
+    "parent": "2020",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 31043.52,
+    "limite_inferior": 193778.49,
+    "limite_superior": 305421.52,
+    "parent": "2020",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 57301.92,
+    "limite_inferior": 305421.53,
+    "limite_superior": 583100.0,
+    "parent": "2020",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 140605.52,
+    "limite_inferior": 583100.01,
+    "limite_superior": 777466.64,
+    "parent": "2020",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 202802.8,
+    "limite_inferior": 777466.65,
+    "limite_superior": 2332400.0,
+    "parent": "2020",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 731480.16,
+    "limite_inferior": 2332400.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_diciembre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 6942.2,
+    "parent": "2020",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 133.28,
+    "limite_inferior": 6942.21,
+    "limite_superior": 58922.16,
+    "parent": "2020",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 3460.01,
+    "limite_inferior": 58922.17,
+    "limite_superior": 103550.44,
+    "parent": "2020",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 8315.57,
+    "limite_inferior": 103550.45,
+    "limite_superior": 120372.83,
+    "parent": "2020",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 11007.14,
+    "limite_inferior": 120372.84,
+    "limite_superior": 144119.23,
+    "parent": "2020",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 15262.49,
+    "limite_inferior": 144119.24,
+    "limite_superior": 290667.75,
+    "parent": "2020",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 46565.26,
+    "limite_inferior": 290667.76,
+    "limite_superior": 458132.29,
+    "parent": "2020",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 85952.92,
+    "limite_inferior": 458132.3,
+    "limite_superior": 874650.0,
+    "parent": "2020",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 210908.23,
+    "limite_inferior": 874650.01,
+    "limite_superior": 1166200.0,
+    "parent": "2020",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 304204.21,
+    "limite_inferior": 1166200.01,
+    "limite_superior": 3498600.0,
+    "parent": "2020",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 1097220.21,
+    "limite_inferior": 3498600.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_enero": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 578.52,
+    "parent": "2020",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 11.11,
+    "limite_inferior": 578.53,
+    "limite_superior": 4910.18,
+    "parent": "2020",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 288.33,
+    "limite_inferior": 4910.19,
+    "limite_superior": 8629.2,
+    "parent": "2020",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 692.96,
+    "limite_inferior": 8629.21,
+    "limite_superior": 10031.07,
+    "parent": "2020",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 917.26,
+    "limite_inferior": 10031.08,
+    "limite_superior": 12009.94,
+    "parent": "2020",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 1271.87,
+    "limite_inferior": 12009.95,
+    "limite_superior": 24222.31,
+    "parent": "2020",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 3880.44,
+    "limite_inferior": 24222.32,
+    "limite_superior": 38177.69,
+    "parent": "2020",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 7162.74,
+    "limite_inferior": 38177.7,
+    "limite_superior": 72887.5,
+    "parent": "2020",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 17575.69,
+    "limite_inferior": 72887.51,
+    "limite_superior": 97183.33,
+    "parent": "2020",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 25350.35,
+    "limite_inferior": 97183.34,
+    "limite_superior": 291550.0,
+    "parent": "2020",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 91435.02,
+    "limite_inferior": 291550.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_febrero": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 1157.04,
+    "parent": "2020",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 22.22,
+    "limite_inferior": 1157.05,
+    "limite_superior": 9820.36,
+    "parent": "2020",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 576.66,
+    "limite_inferior": 9820.37,
+    "limite_superior": 17258.4,
+    "parent": "2020",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 1385.92,
+    "limite_inferior": 17258.41,
+    "limite_superior": 20062.14,
+    "parent": "2020",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 1834.52,
+    "limite_inferior": 20062.15,
+    "limite_superior": 24019.88,
+    "parent": "2020",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 2543.74,
+    "limite_inferior": 24019.89,
+    "limite_superior": 48444.62,
+    "parent": "2020",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 7760.88,
+    "limite_inferior": 48444.63,
+    "limite_superior": 76355.38,
+    "parent": "2020",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 14325.48,
+    "limite_inferior": 76355.39,
+    "limite_superior": 145775.0,
+    "parent": "2020",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 35151.38,
+    "limite_inferior": 145775.01,
+    "limite_superior": 194366.66,
+    "parent": "2020",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 50700.7,
+    "limite_inferior": 194366.67,
+    "limite_superior": 583100.0,
+    "parent": "2020",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 182870.04,
+    "limite_inferior": 583100.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_julio": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 4049.64,
+    "parent": "2020",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 77.77,
+    "limite_inferior": 4049.65,
+    "limite_superior": 34371.26,
+    "parent": "2020",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 2018.31,
+    "limite_inferior": 34371.27,
+    "limite_superior": 60404.4,
+    "parent": "2020",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 4850.72,
+    "limite_inferior": 60404.41,
+    "limite_superior": 70217.49,
+    "parent": "2020",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 6420.82,
+    "limite_inferior": 70217.5,
+    "limite_superior": 84069.58,
+    "parent": "2020",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 8903.09,
+    "limite_inferior": 84069.59,
+    "limite_superior": 169556.17,
+    "parent": "2020",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 27163.08,
+    "limite_inferior": 169556.18,
+    "limite_superior": 267243.83,
+    "parent": "2020",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 50139.18,
+    "limite_inferior": 267243.84,
+    "limite_superior": 510212.5,
+    "parent": "2020",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 123029.83,
+    "limite_inferior": 510212.51,
+    "limite_superior": 680283.31,
+    "parent": "2020",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 177452.45,
+    "limite_inferior": 680283.32,
+    "limite_superior": 2040850.0,
+    "parent": "2020",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 640045.14,
+    "limite_inferior": 2040850.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_junio": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 3471.12,
+    "parent": "2020",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 66.66,
+    "limite_inferior": 3471.13,
+    "limite_superior": 29461.08,
+    "parent": "2020",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 1729.98,
+    "limite_inferior": 29461.09,
+    "limite_superior": 51775.2,
+    "parent": "2020",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 4157.76,
+    "limite_inferior": 51775.21,
+    "limite_superior": 60186.42,
+    "parent": "2020",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 5503.56,
+    "limite_inferior": 60186.43,
+    "limite_superior": 72059.64,
+    "parent": "2020",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 7631.22,
+    "limite_inferior": 72059.65,
+    "limite_superior": 145333.86,
+    "parent": "2020",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 23282.64,
+    "limite_inferior": 145333.87,
+    "limite_superior": 229066.14,
+    "parent": "2020",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 42976.44,
+    "limite_inferior": 229066.15,
+    "limite_superior": 437325.0,
+    "parent": "2020",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 105454.14,
+    "limite_inferior": 437325.01,
+    "limite_superior": 583099.98,
+    "parent": "2020",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 152102.1,
+    "limite_inferior": 583099.99,
+    "limite_superior": 1749300.0,
+    "parent": "2020",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 548610.12,
+    "limite_inferior": 1749300.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_marzo": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 1735.56,
+    "parent": "2020",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 33.33,
+    "limite_inferior": 1735.57,
+    "limite_superior": 14730.54,
+    "parent": "2020",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 864.99,
+    "limite_inferior": 14730.55,
+    "limite_superior": 25887.6,
+    "parent": "2020",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 2078.88,
+    "limite_inferior": 25887.61,
+    "limite_superior": 30093.21,
+    "parent": "2020",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 2751.78,
+    "limite_inferior": 30093.22,
+    "limite_superior": 36029.82,
+    "parent": "2020",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 3815.61,
+    "limite_inferior": 36029.83,
+    "limite_superior": 72666.93,
+    "parent": "2020",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 11641.32,
+    "limite_inferior": 72666.94,
+    "limite_superior": 114533.07,
+    "parent": "2020",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 21488.22,
+    "limite_inferior": 114533.08,
+    "limite_superior": 218662.5,
+    "parent": "2020",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 52727.07,
+    "limite_inferior": 218662.51,
+    "limite_superior": 291549.99,
+    "parent": "2020",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 76051.05,
+    "limite_inferior": 291550.0,
+    "limite_superior": 874650.0,
+    "parent": "2020",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 274305.06,
+    "limite_inferior": 874650.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_mayo": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 2892.6,
+    "parent": "2020",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 55.55,
+    "limite_inferior": 2892.61,
+    "limite_superior": 24550.9,
+    "parent": "2020",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 1441.65,
+    "limite_inferior": 24550.91,
+    "limite_superior": 43146.0,
+    "parent": "2020",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 3464.8,
+    "limite_inferior": 43146.01,
+    "limite_superior": 50155.35,
+    "parent": "2020",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 4586.3,
+    "limite_inferior": 50155.36,
+    "limite_superior": 60049.7,
+    "parent": "2020",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 6359.35,
+    "limite_inferior": 60049.71,
+    "limite_superior": 121111.55,
+    "parent": "2020",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 19402.2,
+    "limite_inferior": 121111.56,
+    "limite_superior": 190888.45,
+    "parent": "2020",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 35813.7,
+    "limite_inferior": 190888.46,
+    "limite_superior": 364437.5,
+    "parent": "2020",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 87878.45,
+    "limite_inferior": 364437.51,
+    "limite_superior": 485916.65,
+    "parent": "2020",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 126751.75,
+    "limite_inferior": 485916.66,
+    "limite_superior": 1457750.0,
+    "parent": "2020",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 457175.1,
+    "limite_inferior": 1457750.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_noviembre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 6363.72,
+    "parent": "2020",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 122.21,
+    "limite_inferior": 6363.73,
+    "limite_superior": 54011.98,
+    "parent": "2020",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 3171.63,
+    "limite_inferior": 54011.99,
+    "limite_superior": 94921.2,
+    "parent": "2020",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 7622.56,
+    "limite_inferior": 94921.21,
+    "limite_superior": 110341.77,
+    "parent": "2020",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 10089.86,
+    "limite_inferior": 110341.78,
+    "limite_superior": 132109.34,
+    "parent": "2020",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 13990.57,
+    "limite_inferior": 132109.35,
+    "limite_superior": 266445.41,
+    "parent": "2020",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 42684.84,
+    "limite_inferior": 266445.42,
+    "limite_superior": 419954.59,
+    "parent": "2020",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 78790.14,
+    "limite_inferior": 419954.6,
+    "limite_superior": 801762.5,
+    "parent": "2020",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 193332.59,
+    "limite_inferior": 801762.51,
+    "limite_superior": 1069016.63,
+    "parent": "2020",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 278853.85,
+    "limite_inferior": 1069016.64,
+    "limite_superior": 3207050.0,
+    "parent": "2020",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 1005785.22,
+    "limite_inferior": 3207050.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_octubre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 5785.2,
+    "parent": "2020",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 111.1,
+    "limite_inferior": 5785.21,
+    "limite_superior": 49101.8,
+    "parent": "2020",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 2883.3,
+    "limite_inferior": 49101.81,
+    "limite_superior": 86292.0,
+    "parent": "2020",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 6929.6,
+    "limite_inferior": 86292.01,
+    "limite_superior": 100310.7,
+    "parent": "2020",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 9172.6,
+    "limite_inferior": 100310.71,
+    "limite_superior": 120099.4,
+    "parent": "2020",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 12718.7,
+    "limite_inferior": 120099.41,
+    "limite_superior": 242223.1,
+    "parent": "2020",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 38804.4,
+    "limite_inferior": 242223.11,
+    "limite_superior": 381776.9,
+    "parent": "2020",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 71627.4,
+    "limite_inferior": 381776.91,
+    "limite_superior": 728875.0,
+    "parent": "2020",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 175756.9,
+    "limite_inferior": 728875.01,
+    "limite_superior": 971833.3,
+    "parent": "2020",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 253503.5,
+    "limite_inferior": 971833.31,
+    "limite_superior": 2915500.0,
+    "parent": "2020",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 914350.2,
+    "limite_inferior": 2915500.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_septiembre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 5206.68,
+    "parent": "2020",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 99.99,
+    "limite_inferior": 5206.69,
+    "limite_superior": 44191.62,
+    "parent": "2020",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 2594.97,
+    "limite_inferior": 44191.63,
+    "limite_superior": 77662.8,
+    "parent": "2020",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 6236.64,
+    "limite_inferior": 77662.81,
+    "limite_superior": 90279.63,
+    "parent": "2020",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 8255.34,
+    "limite_inferior": 90279.64,
+    "limite_superior": 108089.46,
+    "parent": "2020",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 11446.83,
+    "limite_inferior": 108089.47,
+    "limite_superior": 218000.79,
+    "parent": "2020",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 34923.96,
+    "limite_inferior": 218000.8,
+    "limite_superior": 343599.21,
+    "parent": "2020",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 64464.66,
+    "limite_inferior": 343599.22,
+    "limite_superior": 655987.5,
+    "parent": "2020",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 158181.21,
+    "limite_inferior": 655987.51,
+    "limite_superior": 874649.97,
+    "parent": "2020",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 228153.15,
+    "limite_inferior": 874649.98,
+    "limite_superior": 2623950.0,
+    "parent": "2020",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 822915.18,
+    "limite_inferior": 2623950.01,
+    "limite_superior": 0.0,
+    "parent": "2020",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "pagos_provisionales_isr",
+  "fiscal_year": "2021",
+  "modified": "2022-04-29 17:13:40.007190",
+  "name": "2021",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tabla_abril": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 2578.32,
+    "parent": "2021",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 49.52,
+    "limite_inferior": 2578.33,
+    "limite_superior": 21883.68,
+    "parent": "2021",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 1285.04,
+    "limite_inferior": 21883.69,
+    "limite_superior": 38458.64,
+    "parent": "2021",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 3088.4,
+    "limite_inferior": 38458.65,
+    "limite_superior": 44706.48,
+    "parent": "2021",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 4088.04,
+    "limite_inferior": 44706.49,
+    "limite_superior": 53525.88,
+    "parent": "2021",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 5668.48,
+    "limite_inferior": 53525.89,
+    "limite_superior": 107954.0,
+    "parent": "2021",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 17294.32,
+    "limite_inferior": 107954.01,
+    "limite_superior": 170150.32,
+    "parent": "2021",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 31922.92,
+    "limite_inferior": 170150.33,
+    "limite_superior": 324845.0,
+    "parent": "2021",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 78331.32,
+    "limite_inferior": 324845.01,
+    "limite_superior": 433126.68,
+    "parent": "2021",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 112981.44,
+    "limite_inferior": 433126.69,
+    "limite_superior": 1299380.04,
+    "parent": "2021",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 407507.6,
+    "limite_inferior": 1299380.05,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_agosto": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 5156.64,
+    "parent": "2021",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 99.04,
+    "limite_inferior": 5156.65,
+    "limite_superior": 43767.36,
+    "parent": "2021",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 2570.08,
+    "limite_inferior": 43767.37,
+    "limite_superior": 76917.28,
+    "parent": "2021",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 6176.8,
+    "limite_inferior": 76917.29,
+    "limite_superior": 89412.96,
+    "parent": "2021",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 8176.08,
+    "limite_inferior": 89412.97,
+    "limite_superior": 107051.76,
+    "parent": "2021",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 11336.96,
+    "limite_inferior": 107051.77,
+    "limite_superior": 215908.0,
+    "parent": "2021",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 34588.64,
+    "limite_inferior": 215908.01,
+    "limite_superior": 340300.64,
+    "parent": "2021",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 63845.84,
+    "limite_inferior": 340300.65,
+    "limite_superior": 649690.0,
+    "parent": "2021",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 156662.64,
+    "limite_inferior": 649690.01,
+    "limite_superior": 866253.36,
+    "parent": "2021",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 225962.88,
+    "limite_inferior": 866253.37,
+    "limite_superior": 2598760.08,
+    "parent": "2021",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 815015.2,
+    "limite_inferior": 2598760.09,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_diciembre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 7735.0,
+    "parent": "2021",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 148.51,
+    "limite_inferior": 7735.01,
+    "limite_superior": 65651.07,
+    "parent": "2021",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 3855.14,
+    "limite_inferior": 65651.08,
+    "limite_superior": 115375.9,
+    "parent": "2021",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 9265.2,
+    "limite_inferior": 115375.91,
+    "limite_superior": 134119.41,
+    "parent": "2021",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 12264.16,
+    "limite_inferior": 134119.42,
+    "limite_superior": 160577.65,
+    "parent": "2021",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 17005.47,
+    "limite_inferior": 160577.66,
+    "limite_superior": 323862.0,
+    "parent": "2021",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 51883.01,
+    "limite_inferior": 323862.01,
+    "limite_superior": 510451.0,
+    "parent": "2021",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 95768.74,
+    "limite_inferior": 510451.01,
+    "limite_superior": 974535.03,
+    "parent": "2021",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 234993.95,
+    "limite_inferior": 974535.04,
+    "limite_superior": 1299380.04,
+    "parent": "2021",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 338944.34,
+    "limite_inferior": 1299380.05,
+    "limite_superior": 3898140.12,
+    "parent": "2021",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 1222522.76,
+    "limite_inferior": 3898140.13,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_enero": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 644.58,
+    "parent": "2021",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 12.38,
+    "limite_inferior": 644.59,
+    "limite_superior": 5470.92,
+    "parent": "2021",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 321.26,
+    "limite_inferior": 5470.93,
+    "limite_superior": 9614.66,
+    "parent": "2021",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 772.1,
+    "limite_inferior": 9614.67,
+    "limite_superior": 11176.62,
+    "parent": "2021",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 1022.01,
+    "limite_inferior": 11176.63,
+    "limite_superior": 13381.47,
+    "parent": "2021",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 1417.12,
+    "limite_inferior": 13381.48,
+    "limite_superior": 26988.5,
+    "parent": "2021",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 4323.58,
+    "limite_inferior": 26988.51,
+    "limite_superior": 42537.58,
+    "parent": "2021",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 7980.73,
+    "limite_inferior": 42537.59,
+    "limite_superior": 81211.25,
+    "parent": "2021",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 19582.83,
+    "limite_inferior": 81211.26,
+    "limite_superior": 108281.67,
+    "parent": "2021",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 28245.36,
+    "limite_inferior": 108281.68,
+    "limite_superior": 324845.01,
+    "parent": "2021",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 101876.9,
+    "limite_inferior": 324845.02,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_febrero": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 1289.16,
+    "parent": "2021",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 24.76,
+    "limite_inferior": 1289.17,
+    "limite_superior": 10941.84,
+    "parent": "2021",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 642.52,
+    "limite_inferior": 10941.85,
+    "limite_superior": 19229.32,
+    "parent": "2021",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 1544.2,
+    "limite_inferior": 19229.33,
+    "limite_superior": 22353.24,
+    "parent": "2021",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 2044.02,
+    "limite_inferior": 22353.25,
+    "limite_superior": 26762.94,
+    "parent": "2021",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 2834.24,
+    "limite_inferior": 26762.95,
+    "limite_superior": 53977.0,
+    "parent": "2021",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 8647.16,
+    "limite_inferior": 53977.01,
+    "limite_superior": 85075.16,
+    "parent": "2021",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 15961.46,
+    "limite_inferior": 85075.17,
+    "limite_superior": 162422.5,
+    "parent": "2021",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 39165.66,
+    "limite_inferior": 162422.51,
+    "limite_superior": 216563.34,
+    "parent": "2021",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 56490.72,
+    "limite_inferior": 216563.35,
+    "limite_superior": 649690.02,
+    "parent": "2021",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 203753.8,
+    "limite_inferior": 649690.03,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_julio": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 4512.06,
+    "parent": "2021",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 86.66,
+    "limite_inferior": 4512.07,
+    "limite_superior": 38296.44,
+    "parent": "2021",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 2248.82,
+    "limite_inferior": 38296.45,
+    "limite_superior": 67302.62,
+    "parent": "2021",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 5404.7,
+    "limite_inferior": 67302.63,
+    "limite_superior": 78236.34,
+    "parent": "2021",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 7154.07,
+    "limite_inferior": 78236.35,
+    "limite_superior": 93670.29,
+    "parent": "2021",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 9919.84,
+    "limite_inferior": 93670.3,
+    "limite_superior": 188919.5,
+    "parent": "2021",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 30265.06,
+    "limite_inferior": 188919.51,
+    "limite_superior": 297763.06,
+    "parent": "2021",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 55865.11,
+    "limite_inferior": 297763.07,
+    "limite_superior": 568478.75,
+    "parent": "2021",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 137079.81,
+    "limite_inferior": 568478.76,
+    "limite_superior": 757971.69,
+    "parent": "2021",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 197717.52,
+    "limite_inferior": 757971.7,
+    "limite_superior": 2273915.07,
+    "parent": "2021",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 713138.3,
+    "limite_inferior": 2273915.08,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_junio": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 3867.48,
+    "parent": "2021",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 74.28,
+    "limite_inferior": 3867.49,
+    "limite_superior": 32825.52,
+    "parent": "2021",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 1927.56,
+    "limite_inferior": 32825.53,
+    "limite_superior": 57687.96,
+    "parent": "2021",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 4632.6,
+    "limite_inferior": 57687.97,
+    "limite_superior": 67059.72,
+    "parent": "2021",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 6132.06,
+    "limite_inferior": 67059.73,
+    "limite_superior": 80288.82,
+    "parent": "2021",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 8502.72,
+    "limite_inferior": 80288.83,
+    "limite_superior": 161931.0,
+    "parent": "2021",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 25941.48,
+    "limite_inferior": 161931.01,
+    "limite_superior": 255225.48,
+    "parent": "2021",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 47884.38,
+    "limite_inferior": 255225.49,
+    "limite_superior": 487267.5,
+    "parent": "2021",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 117496.98,
+    "limite_inferior": 487267.51,
+    "limite_superior": 649690.02,
+    "parent": "2021",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 169472.16,
+    "limite_inferior": 649690.03,
+    "limite_superior": 1949070.06,
+    "parent": "2021",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 611261.4,
+    "limite_inferior": 1949070.07,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_marzo": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 1933.74,
+    "parent": "2021",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 37.14,
+    "limite_inferior": 1933.75,
+    "limite_superior": 16412.76,
+    "parent": "2021",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 963.78,
+    "limite_inferior": 16412.77,
+    "limite_superior": 28843.98,
+    "parent": "2021",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 2316.3,
+    "limite_inferior": 28843.99,
+    "limite_superior": 33529.86,
+    "parent": "2021",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 3066.03,
+    "limite_inferior": 33529.87,
+    "limite_superior": 40144.41,
+    "parent": "2021",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 4251.36,
+    "limite_inferior": 40144.42,
+    "limite_superior": 80965.5,
+    "parent": "2021",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 12970.74,
+    "limite_inferior": 80965.51,
+    "limite_superior": 127612.74,
+    "parent": "2021",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 23942.19,
+    "limite_inferior": 127612.75,
+    "limite_superior": 243633.75,
+    "parent": "2021",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 58748.49,
+    "limite_inferior": 243633.76,
+    "limite_superior": 324845.01,
+    "parent": "2021",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 84736.08,
+    "limite_inferior": 324845.02,
+    "limite_superior": 974535.03,
+    "parent": "2021",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 305630.7,
+    "limite_inferior": 974535.04,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_mayo": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 3222.9,
+    "parent": "2021",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 61.9,
+    "limite_inferior": 3222.91,
+    "limite_superior": 27354.6,
+    "parent": "2021",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 1606.3,
+    "limite_inferior": 27354.61,
+    "limite_superior": 48073.3,
+    "parent": "2021",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 3860.5,
+    "limite_inferior": 48073.31,
+    "limite_superior": 55883.1,
+    "parent": "2021",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 5110.05,
+    "limite_inferior": 55883.11,
+    "limite_superior": 66907.35,
+    "parent": "2021",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 7085.6,
+    "limite_inferior": 66907.36,
+    "limite_superior": 134942.5,
+    "parent": "2021",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 21617.9,
+    "limite_inferior": 134942.51,
+    "limite_superior": 212687.9,
+    "parent": "2021",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 39903.65,
+    "limite_inferior": 212687.91,
+    "limite_superior": 406056.25,
+    "parent": "2021",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 97914.15,
+    "limite_inferior": 406056.26,
+    "limite_superior": 541408.35,
+    "parent": "2021",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 141226.8,
+    "limite_inferior": 541408.36,
+    "limite_superior": 1624225.05,
+    "parent": "2021",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 509384.5,
+    "limite_inferior": 1624225.06,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_noviembre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 7090.38,
+    "parent": "2021",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 136.18,
+    "limite_inferior": 7090.39,
+    "limite_superior": 60180.12,
+    "parent": "2021",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 3533.86,
+    "limite_inferior": 60180.13,
+    "limite_superior": 105761.26,
+    "parent": "2021",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 8493.1,
+    "limite_inferior": 105761.27,
+    "limite_superior": 122942.82,
+    "parent": "2021",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 11242.11,
+    "limite_inferior": 122942.83,
+    "limite_superior": 147196.17,
+    "parent": "2021",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 15588.32,
+    "limite_inferior": 147196.18,
+    "limite_superior": 296873.5,
+    "parent": "2021",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 47559.38,
+    "limite_inferior": 296873.51,
+    "limite_superior": 467913.38,
+    "parent": "2021",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 87788.03,
+    "limite_inferior": 467913.39,
+    "limite_superior": 893323.75,
+    "parent": "2021",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 215411.13,
+    "limite_inferior": 893323.76,
+    "limite_superior": 1191098.37,
+    "parent": "2021",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 310698.96,
+    "limite_inferior": 1191098.38,
+    "limite_superior": 3573295.11,
+    "parent": "2021",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 1120645.9,
+    "limite_inferior": 3573295.12,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_octubre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 6445.8,
+    "parent": "2021",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 123.8,
+    "limite_inferior": 6445.81,
+    "limite_superior": 54709.2,
+    "parent": "2021",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 3212.6,
+    "limite_inferior": 54709.21,
+    "limite_superior": 96146.6,
+    "parent": "2021",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 7721.0,
+    "limite_inferior": 96146.61,
+    "limite_superior": 111766.2,
+    "parent": "2021",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 10220.1,
+    "limite_inferior": 111766.21,
+    "limite_superior": 133814.7,
+    "parent": "2021",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 14171.2,
+    "limite_inferior": 133814.71,
+    "limite_superior": 269885.0,
+    "parent": "2021",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 43235.8,
+    "limite_inferior": 269885.01,
+    "limite_superior": 425375.8,
+    "parent": "2021",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 79807.3,
+    "limite_inferior": 425375.81,
+    "limite_superior": 812112.5,
+    "parent": "2021",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 195828.3,
+    "limite_inferior": 812112.51,
+    "limite_superior": 1082816.7,
+    "parent": "2021",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 282453.6,
+    "limite_inferior": 1082816.71,
+    "limite_superior": 3248450.1,
+    "parent": "2021",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 1018769.0,
+    "limite_inferior": 3248450.11,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_septiembre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 5801.22,
+    "parent": "2021",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 111.42,
+    "limite_inferior": 5801.23,
+    "limite_superior": 49238.28,
+    "parent": "2021",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 2891.34,
+    "limite_inferior": 49238.29,
+    "limite_superior": 86531.94,
+    "parent": "2021",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 6948.9,
+    "limite_inferior": 86531.95,
+    "limite_superior": 100589.58,
+    "parent": "2021",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 9198.09,
+    "limite_inferior": 100589.59,
+    "limite_superior": 120433.23,
+    "parent": "2021",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 12754.08,
+    "limite_inferior": 120433.24,
+    "limite_superior": 242896.5,
+    "parent": "2021",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 38912.22,
+    "limite_inferior": 242896.51,
+    "limite_superior": 382838.22,
+    "parent": "2021",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 71826.57,
+    "limite_inferior": 382838.23,
+    "limite_superior": 730901.25,
+    "parent": "2021",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 176245.47,
+    "limite_inferior": 730901.26,
+    "limite_superior": 974535.03,
+    "parent": "2021",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 254208.24,
+    "limite_inferior": 974535.04,
+    "limite_superior": 2923605.09,
+    "parent": "2021",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 916892.1,
+    "limite_inferior": 2923605.1,
+    "limite_superior": 0.0,
+    "parent": "2021",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ]
+ },
+ {
+  "docstatus": 0,
+  "doctype": "pagos_provisionales_isr",
+  "fiscal_year": "2022",
+  "modified": "2022-05-01 19:47:34.209092",
+  "name": "2022",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tabla_abril": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 2578.32,
+    "parent": "2022",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 49.52,
+    "limite_inferior": 2578.33,
+    "limite_superior": 21883.68,
+    "parent": "2022",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 1285.04,
+    "limite_inferior": 21883.69,
+    "limite_superior": 38458.64,
+    "parent": "2022",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 3088.4,
+    "limite_inferior": 38458.65,
+    "limite_superior": 44706.48,
+    "parent": "2022",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 4088.04,
+    "limite_inferior": 44706.49,
+    "limite_superior": 53525.88,
+    "parent": "2022",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 5668.48,
+    "limite_inferior": 53525.89,
+    "limite_superior": 107954.0,
+    "parent": "2022",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 17294.32,
+    "limite_inferior": 107954.01,
+    "limite_superior": 170150.32,
+    "parent": "2022",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 31922.92,
+    "limite_inferior": 170150.33,
+    "limite_superior": 324845.0,
+    "parent": "2022",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 78331.32,
+    "limite_inferior": 324845.01,
+    "limite_superior": 433126.68,
+    "parent": "2022",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 112981.44,
+    "limite_inferior": 433126.69,
+    "limite_superior": 1299380.04,
+    "parent": "2022",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 407507.6,
+    "limite_inferior": 1299380.05,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_abril",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_agosto": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 5156.64,
+    "parent": "2022",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 99.04,
+    "limite_inferior": 5156.65,
+    "limite_superior": 43767.36,
+    "parent": "2022",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 2570.08,
+    "limite_inferior": 43767.37,
+    "limite_superior": 76917.28,
+    "parent": "2022",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 6176.8,
+    "limite_inferior": 76917.29,
+    "limite_superior": 89412.96,
+    "parent": "2022",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 8176.08,
+    "limite_inferior": 89412.97,
+    "limite_superior": 107051.76,
+    "parent": "2022",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 11336.96,
+    "limite_inferior": 107051.77,
+    "limite_superior": 215908.0,
+    "parent": "2022",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 34588.64,
+    "limite_inferior": 215908.01,
+    "limite_superior": 340300.64,
+    "parent": "2022",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 63845.84,
+    "limite_inferior": 340300.65,
+    "limite_superior": 649690.0,
+    "parent": "2022",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 156662.64,
+    "limite_inferior": 649690.01,
+    "limite_superior": 866253.36,
+    "parent": "2022",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 225962.88,
+    "limite_inferior": 866253.37,
+    "limite_superior": 2598760.08,
+    "parent": "2022",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 815015.2,
+    "limite_inferior": 2598760.09,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_agosto",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_diciembre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 7735.0,
+    "parent": "2022",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 148.51,
+    "limite_inferior": 7735.01,
+    "limite_superior": 65651.07,
+    "parent": "2022",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 3855.14,
+    "limite_inferior": 65651.08,
+    "limite_superior": 115375.9,
+    "parent": "2022",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 9265.2,
+    "limite_inferior": 115375.91,
+    "limite_superior": 134119.41,
+    "parent": "2022",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 12264.16,
+    "limite_inferior": 134119.42,
+    "limite_superior": 160577.65,
+    "parent": "2022",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 17005.47,
+    "limite_inferior": 160577.66,
+    "limite_superior": 323862.0,
+    "parent": "2022",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 51883.01,
+    "limite_inferior": 323862.01,
+    "limite_superior": 510451.0,
+    "parent": "2022",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 95768.74,
+    "limite_inferior": 510451.01,
+    "limite_superior": 974535.03,
+    "parent": "2022",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 234993.95,
+    "limite_inferior": 974535.04,
+    "limite_superior": 1299380.04,
+    "parent": "2022",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 338944.34,
+    "limite_inferior": 1299380.05,
+    "limite_superior": 3898140.12,
+    "parent": "2022",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 1222522.76,
+    "limite_inferior": 3898140.13,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_diciembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_enero": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 644.58,
+    "parent": "2022",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 12.38,
+    "limite_inferior": 644.59,
+    "limite_superior": 5470.92,
+    "parent": "2022",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 321.26,
+    "limite_inferior": 5470.93,
+    "limite_superior": 9614.66,
+    "parent": "2022",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 772.1,
+    "limite_inferior": 9614.67,
+    "limite_superior": 11176.62,
+    "parent": "2022",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 1022.01,
+    "limite_inferior": 11176.63,
+    "limite_superior": 13381.47,
+    "parent": "2022",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 1417.12,
+    "limite_inferior": 13381.48,
+    "limite_superior": 26988.5,
+    "parent": "2022",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 4323.58,
+    "limite_inferior": 26988.51,
+    "limite_superior": 42537.58,
+    "parent": "2022",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 7980.73,
+    "limite_inferior": 42537.59,
+    "limite_superior": 81211.25,
+    "parent": "2022",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 19582.83,
+    "limite_inferior": 81211.26,
+    "limite_superior": 108281.67,
+    "parent": "2022",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 28245.36,
+    "limite_inferior": 108281.68,
+    "limite_superior": 324845.01,
+    "parent": "2022",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 101876.9,
+    "limite_inferior": 324845.02,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_enero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_febrero": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 1289.16,
+    "parent": "2022",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 24.76,
+    "limite_inferior": 1289.17,
+    "limite_superior": 10941.84,
+    "parent": "2022",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 642.52,
+    "limite_inferior": 10941.85,
+    "limite_superior": 19229.32,
+    "parent": "2022",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 1544.2,
+    "limite_inferior": 19229.33,
+    "limite_superior": 22353.24,
+    "parent": "2022",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 2044.02,
+    "limite_inferior": 22353.25,
+    "limite_superior": 26762.94,
+    "parent": "2022",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 2834.24,
+    "limite_inferior": 26762.95,
+    "limite_superior": 53977.0,
+    "parent": "2022",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 8647.16,
+    "limite_inferior": 53977.01,
+    "limite_superior": 85075.16,
+    "parent": "2022",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 15961.46,
+    "limite_inferior": 85075.17,
+    "limite_superior": 162422.5,
+    "parent": "2022",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 39165.66,
+    "limite_inferior": 162422.51,
+    "limite_superior": 216563.34,
+    "parent": "2022",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 56490.72,
+    "limite_inferior": 216563.35,
+    "limite_superior": 649690.02,
+    "parent": "2022",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 203753.8,
+    "limite_inferior": 649690.03,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_febrero",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_julio": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 4512.06,
+    "parent": "2022",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 86.66,
+    "limite_inferior": 4512.07,
+    "limite_superior": 38296.44,
+    "parent": "2022",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 2248.82,
+    "limite_inferior": 38296.45,
+    "limite_superior": 67302.62,
+    "parent": "2022",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 5404.7,
+    "limite_inferior": 67302.63,
+    "limite_superior": 78236.34,
+    "parent": "2022",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 7154.07,
+    "limite_inferior": 78236.35,
+    "limite_superior": 93670.29,
+    "parent": "2022",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 9919.84,
+    "limite_inferior": 93670.3,
+    "limite_superior": 188919.5,
+    "parent": "2022",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 30265.06,
+    "limite_inferior": 188919.51,
+    "limite_superior": 297763.06,
+    "parent": "2022",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 55865.11,
+    "limite_inferior": 297763.07,
+    "limite_superior": 568478.75,
+    "parent": "2022",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 137079.81,
+    "limite_inferior": 568478.76,
+    "limite_superior": 757971.69,
+    "parent": "2022",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 197717.52,
+    "limite_inferior": 757971.7,
+    "limite_superior": 2273915.07,
+    "parent": "2022",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 713138.3,
+    "limite_inferior": 2273915.08,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_julio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_junio": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 3867.48,
+    "parent": "2022",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 74.28,
+    "limite_inferior": 3867.49,
+    "limite_superior": 32825.52,
+    "parent": "2022",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 1927.56,
+    "limite_inferior": 32825.53,
+    "limite_superior": 57687.96,
+    "parent": "2022",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 4632.6,
+    "limite_inferior": 57687.97,
+    "limite_superior": 67059.72,
+    "parent": "2022",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 6132.06,
+    "limite_inferior": 67059.73,
+    "limite_superior": 80288.82,
+    "parent": "2022",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 8502.72,
+    "limite_inferior": 80288.83,
+    "limite_superior": 161931.0,
+    "parent": "2022",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 25941.48,
+    "limite_inferior": 161931.01,
+    "limite_superior": 255225.48,
+    "parent": "2022",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 47884.38,
+    "limite_inferior": 255225.49,
+    "limite_superior": 487267.5,
+    "parent": "2022",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 117496.98,
+    "limite_inferior": 487267.51,
+    "limite_superior": 649690.02,
+    "parent": "2022",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 169472.16,
+    "limite_inferior": 649690.03,
+    "limite_superior": 1949070.06,
+    "parent": "2022",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 611261.4,
+    "limite_inferior": 1949070.07,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_junio",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_marzo": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 1933.74,
+    "parent": "2022",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 37.14,
+    "limite_inferior": 1933.75,
+    "limite_superior": 16412.76,
+    "parent": "2022",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 963.78,
+    "limite_inferior": 16412.77,
+    "limite_superior": 28843.98,
+    "parent": "2022",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 2316.3,
+    "limite_inferior": 28843.99,
+    "limite_superior": 33529.86,
+    "parent": "2022",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 3066.03,
+    "limite_inferior": 33529.87,
+    "limite_superior": 40144.41,
+    "parent": "2022",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 4251.36,
+    "limite_inferior": 40144.42,
+    "limite_superior": 80965.5,
+    "parent": "2022",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 12970.74,
+    "limite_inferior": 80965.51,
+    "limite_superior": 127612.74,
+    "parent": "2022",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 23942.19,
+    "limite_inferior": 127612.75,
+    "limite_superior": 243633.75,
+    "parent": "2022",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 58748.49,
+    "limite_inferior": 243633.76,
+    "limite_superior": 324845.01,
+    "parent": "2022",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 84736.08,
+    "limite_inferior": 324845.02,
+    "limite_superior": 974535.03,
+    "parent": "2022",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 305630.7,
+    "limite_inferior": 974535.04,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_marzo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_mayo": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 3222.9,
+    "parent": "2022",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 61.9,
+    "limite_inferior": 3222.91,
+    "limite_superior": 27354.6,
+    "parent": "2022",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 1606.3,
+    "limite_inferior": 27354.61,
+    "limite_superior": 48073.3,
+    "parent": "2022",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 3860.5,
+    "limite_inferior": 48073.31,
+    "limite_superior": 55883.1,
+    "parent": "2022",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 5110.05,
+    "limite_inferior": 55883.11,
+    "limite_superior": 66907.35,
+    "parent": "2022",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 7085.6,
+    "limite_inferior": 66907.36,
+    "limite_superior": 134942.5,
+    "parent": "2022",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 21617.9,
+    "limite_inferior": 134942.51,
+    "limite_superior": 212687.9,
+    "parent": "2022",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 39903.65,
+    "limite_inferior": 212687.91,
+    "limite_superior": 406056.25,
+    "parent": "2022",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 97914.15,
+    "limite_inferior": 406056.26,
+    "limite_superior": 541408.35,
+    "parent": "2022",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 141226.8,
+    "limite_inferior": 541408.36,
+    "limite_superior": 1624225.05,
+    "parent": "2022",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 509384.5,
+    "limite_inferior": 1624225.06,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_mayo",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_noviembre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 7090.38,
+    "parent": "2022",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 136.18,
+    "limite_inferior": 7090.39,
+    "limite_superior": 60180.12,
+    "parent": "2022",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 3533.86,
+    "limite_inferior": 60180.13,
+    "limite_superior": 105761.26,
+    "parent": "2022",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 8493.1,
+    "limite_inferior": 105761.27,
+    "limite_superior": 122942.82,
+    "parent": "2022",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 11242.11,
+    "limite_inferior": 122942.83,
+    "limite_superior": 147196.17,
+    "parent": "2022",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 15588.32,
+    "limite_inferior": 147196.18,
+    "limite_superior": 296873.5,
+    "parent": "2022",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 47559.38,
+    "limite_inferior": 296873.51,
+    "limite_superior": 467913.38,
+    "parent": "2022",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 87788.03,
+    "limite_inferior": 467913.39,
+    "limite_superior": 893323.75,
+    "parent": "2022",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 215411.13,
+    "limite_inferior": 893323.76,
+    "limite_superior": 1191098.37,
+    "parent": "2022",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 310698.96,
+    "limite_inferior": 1191098.38,
+    "limite_superior": 3573295.11,
+    "parent": "2022",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 1120645.9,
+    "limite_inferior": 3573295.12,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_noviembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_octubre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 6445.8,
+    "parent": "2022",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 123.8,
+    "limite_inferior": 6445.81,
+    "limite_superior": 54709.2,
+    "parent": "2022",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 3212.6,
+    "limite_inferior": 54709.21,
+    "limite_superior": 96146.6,
+    "parent": "2022",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 7721.0,
+    "limite_inferior": 96146.61,
+    "limite_superior": 111766.2,
+    "parent": "2022",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 10220.1,
+    "limite_inferior": 111766.21,
+    "limite_superior": 133814.7,
+    "parent": "2022",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 14171.2,
+    "limite_inferior": 133814.71,
+    "limite_superior": 269885.0,
+    "parent": "2022",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 43235.8,
+    "limite_inferior": 269885.01,
+    "limite_superior": 425375.8,
+    "parent": "2022",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 79807.3,
+    "limite_inferior": 425375.81,
+    "limite_superior": 812112.5,
+    "parent": "2022",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 195828.3,
+    "limite_inferior": 812112.51,
+    "limite_superior": 1082816.7,
+    "parent": "2022",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 282453.6,
+    "limite_inferior": 1082816.71,
+    "limite_superior": 3248450.1,
+    "parent": "2022",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 1018769.0,
+    "limite_inferior": 3248450.11,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_octubre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ],
+  "tabla_septiembre": [
+   {
+    "cuota_fija": 0.0,
+    "limite_inferior": 0.01,
+    "limite_superior": 5801.22,
+    "parent": "2022",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 1.92
+   },
+   {
+    "cuota_fija": 111.42,
+    "limite_inferior": 5801.23,
+    "limite_superior": 49238.28,
+    "parent": "2022",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 6.4
+   },
+   {
+    "cuota_fija": 2891.34,
+    "limite_inferior": 49238.29,
+    "limite_superior": 86531.94,
+    "parent": "2022",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 10.88
+   },
+   {
+    "cuota_fija": 6948.9,
+    "limite_inferior": 86531.95,
+    "limite_superior": 100589.58,
+    "parent": "2022",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 16.0
+   },
+   {
+    "cuota_fija": 9198.09,
+    "limite_inferior": 100589.59,
+    "limite_superior": 120433.23,
+    "parent": "2022",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 17.92
+   },
+   {
+    "cuota_fija": 12754.08,
+    "limite_inferior": 120433.24,
+    "limite_superior": 242896.5,
+    "parent": "2022",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 21.36
+   },
+   {
+    "cuota_fija": 38912.22,
+    "limite_inferior": 242896.51,
+    "limite_superior": 382838.22,
+    "parent": "2022",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 23.52
+   },
+   {
+    "cuota_fija": 71826.57,
+    "limite_inferior": 382838.23,
+    "limite_superior": 730901.25,
+    "parent": "2022",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 30.0
+   },
+   {
+    "cuota_fija": 176245.47,
+    "limite_inferior": 730901.26,
+    "limite_superior": 974535.03,
+    "parent": "2022",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 32.0
+   },
+   {
+    "cuota_fija": 254208.24,
+    "limite_inferior": 974535.04,
+    "limite_superior": 2923605.09,
+    "parent": "2022",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 34.0
+   },
+   {
+    "cuota_fija": 916892.1,
+    "limite_inferior": 2923605.1,
+    "limite_superior": 0.0,
+    "parent": "2022",
+    "parentfield": "tabla_septiembre",
+    "parenttype": "pagos_provisionales_isr",
+    "porcentaje_sobre_excedente": 35.0
+   }
+  ]
+ }
+]

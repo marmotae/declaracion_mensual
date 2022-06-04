@@ -1,0 +1,140 @@
+{
+ "autoname": "field:fiscal_year",
+ "creation": "2022-04-29 13:50:39.477907",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "fiscal_year",
+  "tabla_enero",
+  "tabla_febrero",
+  "tabla_marzo",
+  "tabla_abril",
+  "tabla_mayo",
+  "tabla_junio",
+  "tabla_julio",
+  "tabla_agosto",
+  "tabla_septiembre",
+  "tabla_octubre",
+  "tabla_noviembre",
+  "tabla_diciembre"
+ ],
+ "fields": [
+  {
+   "fieldname": "fiscal_year",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "A\u00f1o",
+   "options": "Fiscal Year",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "tabla_enero",
+   "fieldtype": "Table",
+   "label": "Enero",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  },
+  {
+   "fieldname": "tabla_febrero",
+   "fieldtype": "Table",
+   "label": "Febrero",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  },
+  {
+   "fieldname": "tabla_marzo",
+   "fieldtype": "Table",
+   "label": "Marzo",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  },
+  {
+   "fieldname": "tabla_abril",
+   "fieldtype": "Table",
+   "label": "Abril",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  },
+  {
+   "fieldname": "tabla_mayo",
+   "fieldtype": "Table",
+   "label": "Mayo",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  },
+  {
+   "fieldname": "tabla_junio",
+   "fieldtype": "Table",
+   "label": "Junio",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  },
+  {
+   "fieldname": "tabla_julio",
+   "fieldtype": "Table",
+   "label": "Julio",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  },
+  {
+   "fieldname": "tabla_agosto",
+   "fieldtype": "Table",
+   "label": "Agosto",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  },
+  {
+   "fieldname": "tabla_septiembre",
+   "fieldtype": "Table",
+   "label": "Septiembre",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  },
+  {
+   "fieldname": "tabla_octubre",
+   "fieldtype": "Table",
+   "label": "Octuble",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  },
+  {
+   "fieldname": "tabla_noviembre",
+   "fieldtype": "Table",
+   "label": "Noviembre",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  },
+  {
+   "fieldname": "tabla_diciembre",
+   "fieldtype": "Table",
+   "label": "Diciembre",
+   "options": "Tabla Detalle Pagos Provisionales ISR"
+  }
+ ],
+ "modified": "2022-05-27 13:09:36.329787",
+ "modified_by": "Administrator",
+ "module": "Declaracion Mensual",
+ "name": "pagos_provisionales_isr",
+ "owner": "marmotae@gmail.com",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "All",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
